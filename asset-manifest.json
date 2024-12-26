@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rajr4712/react_table.git/static/css/main.e9ccd693.css",
+    "main.js": "/rajr4712/react_table.git/static/js/main.75bfb9c6.js",
+    "static/js/453.7a26276e.chunk.js": "/rajr4712/react_table.git/static/js/453.7a26276e.chunk.js",
+    "index.html": "/rajr4712/react_table.git/index.html",
+    "main.e9ccd693.css.map": "/rajr4712/react_table.git/static/css/main.e9ccd693.css.map",
+    "main.75bfb9c6.js.map": "/rajr4712/react_table.git/static/js/main.75bfb9c6.js.map",
+    "453.7a26276e.chunk.js.map": "/rajr4712/react_table.git/static/js/453.7a26276e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9ccd693.css",
+    "static/js/main.75bfb9c6.js"
+  ]
+}
